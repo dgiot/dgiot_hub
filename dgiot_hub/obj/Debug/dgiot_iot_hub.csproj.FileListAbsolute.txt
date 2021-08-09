@@ -1,0 +1,6 @@
+D:\msys64\home\jonhl\dgiot_iot_hub\dgiot_iot_hub\obj\Debug\dgiot_iot_hub.csprojResolveAssemblyReference.cache
+D:\msys64\home\jonhl\dgiot_iot_hub\dgiot_iot_hub\bin\Debug\dgiot_hub.exe.config
+D:\msys64\home\jonhl\dgiot_iot_hub\dgiot_iot_hub\bin\Debug\dgiot_hub.exe
+D:\msys64\home\jonhl\dgiot_iot_hub\dgiot_iot_hub\bin\Debug\dgiot_hub.pdb
+D:\msys64\home\jonhl\dgiot_iot_hub\dgiot_iot_hub\obj\Debug\dgiot_hub.exe
+D:\msys64\home\jonhl\dgiot_iot_hub\dgiot_iot_hub\obj\Debug\dgiot_hub.pdb

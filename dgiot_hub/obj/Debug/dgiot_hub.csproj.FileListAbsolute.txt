@@ -1,0 +1,5 @@
+D:\msys64\home\jonhl\dgiot_hub\dgiot_hub\bin\Debug\dgiot_hub.exe.config
+D:\msys64\home\jonhl\dgiot_hub\dgiot_hub\obj\Debug\dgiot_hub.exe
+D:\msys64\home\jonhl\dgiot_hub\dgiot_hub\obj\Debug\dgiot_hub.pdb
+D:\msys64\home\jonhl\dgiot_hub\dgiot_hub\bin\Debug\dgiot_hub.exe
+D:\msys64\home\jonhl\dgiot_hub\dgiot_hub\bin\Debug\dgiot_hub.pdb

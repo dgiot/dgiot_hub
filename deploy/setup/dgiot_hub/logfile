@@ -1,0 +1,45 @@
+2020-03-23 13:08:19.606 HKT [25224] 日志:  could not bind IPv6 address "::1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 13:08:19.606 HKT [25224] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 13:08:19.607 HKT [25224] 日志:  could not bind IPv4 address "127.0.0.1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 13:08:19.607 HKT [25224] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 13:08:19.607 HKT [25224] 警告:  无法为 "localhost" 创建监听套接字
+2020-03-23 13:08:19.607 HKT [25224] 致命错误:  无法创建TCP/IP套接字
+2020-03-23 13:08:19.607 HKT [25224] 日志:  数据库系统已关闭
+2020-03-23 13:11:15.816 HKT [26736] 日志:  could not bind IPv6 address "::1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 13:11:15.816 HKT [26736] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 13:11:15.816 HKT [26736] 日志:  could not bind IPv4 address "127.0.0.1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 13:11:15.816 HKT [26736] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 13:11:15.817 HKT [26736] 警告:  无法为 "localhost" 创建监听套接字
+2020-03-23 13:11:15.817 HKT [26736] 致命错误:  无法创建TCP/IP套接字
+2020-03-23 13:11:15.817 HKT [26736] 日志:  数据库系统已关闭
+2020-03-23 13:13:04.547 HKT [29832] 日志:  could not bind IPv6 address "::1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 13:13:04.547 HKT [29832] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 13:13:04.548 HKT [29832] 日志:  could not bind IPv4 address "127.0.0.1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 13:13:04.548 HKT [29832] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 13:13:04.548 HKT [29832] 警告:  无法为 "localhost" 创建监听套接字
+2020-03-23 13:13:04.548 HKT [29832] 致命错误:  无法创建TCP/IP套接字
+2020-03-23 13:13:04.549 HKT [29832] 日志:  数据库系统已关闭
+2020-03-23 14:32:54.588 HKT [31948] 日志:  could not bind IPv6 address "::1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 14:32:54.588 HKT [31948] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 14:32:54.588 HKT [31948] 日志:  could not bind IPv4 address "127.0.0.1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 14:32:54.588 HKT [31948] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 14:32:54.589 HKT [31948] 警告:  无法为 "localhost" 创建监听套接字
+2020-03-23 14:32:54.589 HKT [31948] 致命错误:  无法创建TCP/IP套接字
+2020-03-23 14:32:54.589 HKT [31948] 日志:  数据库系统已关闭
+2020-03-23 14:33:16.810 HKT [29484] 日志:  could not bind IPv6 address "::1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 14:33:16.810 HKT [29484] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 14:33:16.810 HKT [29484] 日志:  could not bind IPv4 address "127.0.0.1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2020-03-23 14:33:16.810 HKT [29484] 提示:  是否有其它 postmaster 已经在端口 5432 上运行了? 如果没有, 请等待几秒钟后然后再重试.
+2020-03-23 14:33:16.810 HKT [29484] 警告:  无法为 "localhost" 创建监听套接字
+2020-03-23 14:33:16.810 HKT [29484] 致命错误:  无法创建TCP/IP套接字
+2020-03-23 14:33:16.811 HKT [29484] 日志:  数据库系统已关闭
